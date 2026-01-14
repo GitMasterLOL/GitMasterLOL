@@ -1,0 +1,38 @@
+<svg width="850" height="420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .text { fill: #c9d1d9; font-family: monospace; font-size: 14px; }
+    .accent { fill: #58a6ff; }
+    .label { fill: #f0883e; }
+  </style>
+
+  <rect class="bg" width="100%" height="100%" rx="12"/>
+
+  <!-- Left ASCII -->
+  <text x="30" y="40" class="text">
+    <tspan x="30" dy="0">     /\_/\</tspan>
+    <tspan x="30" dy="16">    ( o.o )</tspan>
+    <tspan x="30" dy="16">     &gt; ^ &lt;</tspan>
+    <tspan x="30" dy="16"></tspan>
+    <tspan x="30" dy="16">Mahendra@GitHub</tspan>
+  </text>
+
+  <!-- Right Info -->
+  <text x="350" y="40" class="text">
+    <tspan class="accent">Mahendra Kumar</tspan>
+    <tspan x="350" dy="18">--------------------------</tspan>
+
+    <tspan x="350" dy="18"><tspan class="label">Role:</tspan> Engineering Sophomore</tspan>
+    <tspan x="350" dy="18"><tspan class="label">Focus:</tspan> Robotics, Embedded Systems</tspan>
+    <tspan x="350" dy="18"><tspan class="label">OS:</tspan> Linux</tspan>
+
+    <tspan x="350" dy="22"><tspan class="label">Languages:</tspan></tspan>
+    <tspan x="370" dy="18">C, C++, Python, Verilog</tspan>
+
+    <tspan x="350" dy="22"><tspan class="label">Tools:</tspan></tspan>
+    <tspan x="370" dy="18">ROS2, ESP32, PCB Design</tspan>
+
+    <tspan x="350" dy="22"><tspan class="label">Philosophy:</tspan></tspan>
+    <tspan x="370" dy="18">Build systems, not demos</tspan>
+  </text>
+</svg>
