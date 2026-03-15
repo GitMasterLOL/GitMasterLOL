@@ -17,7 +17,7 @@
 <text x="344" y="261" font-family="monospace" font-size="12.5" fill="#BA7517">Contact</text>
 <a href="https://www.linkedin.com/in/mahe-kumar/"><text x="422" y="261" font-family="monospace" font-size="12.5" fill="#BA7517" text-decoration="underline">linkedin.com/in/mahe-kumar/</text></a>
 <text x="482" y="261" font-family="monospace" font-size="12.5" fill="#D3D1C7">  •  </text>
-<a href="mailto:mahendrapotti7@gmail.com"><text x="506" y="261" font-family="monospace" font-size="12.5" fill="#BA7517" text-decoration="underline">mahendrapotti7@gmail.com</text></a>
+<a href="mailto:mahendrapotti7@gmail.com"><text x="12.5" y="262" font-family="monospace" font-size="12.5" fill="#BA7517" text-decoration="underline">mahendrapotti7@gmail.com</text></a>
 <text x="344" y="282" font-family="monospace" font-size="12" fill="#333333">──────────────────────────────────────────</text>
 <rect x="344" y="299" width="16" height="16" rx="3" fill="#2C2C2A"/>
 <rect x="366" y="299" width="16" height="16" rx="3" fill="#A32D2D"/>
